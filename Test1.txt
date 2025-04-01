@@ -1,2 +1,6 @@
 Create test1.txt file
+<<<<<<< HEAD
 2nd line added #vsc
+=======
+new line
+>>>>>>> 4acf060d466aee1187e4876fa10ae6e7e8aca908
